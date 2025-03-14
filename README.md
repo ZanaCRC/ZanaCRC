@@ -1,16 +1,23 @@
-## Hi there 👋
+¡Claro! Aquí tienes una **bio profesional y atractiva** para tu perfil de GitHub, basada en la información de tu CV y adaptada para destacar tus habilidades técnicas y proyectos:
 
-<!--
-**ZanaCRC/ZanaCRC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+**👋 Hi, I’m Jeremy Pizarro**  
+🎓 Senior student of **Business Informatics** at the University of Costa Rica.  
+💻 Passionate about **software development**, **databases**, and **networking**.  
+🚀 Skilled in:  
+- **Programming Languages**: Java, Python, C#, PHP (Laravel).  
+- **Web Development**: React, Vue.js, HTML, CSS, JavaScript.  
+- **Databases**: MySQL, PostgreSQL, SQL Server.  
+- **Tools & Technologies**: Git, Docker, Azure, Linux (Debian).  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 **Projects**:  
+- Developed an educational platform to enhance English learning for kids through interactive books and gamification.  
+- Designed and delivered programming workshops for children as an instructor with Liberia Nueva.  
+- Contributed to the organization of tech events like COMPDES and the "La Anexión" race.  
+
+🌐 **Interests**: Software Development, Artificial Intelligence, Cybersecurity, and Networking.  
+
+📫 **Let’s connect**:  
+- Email: jeremy.p3112@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/jeremy-pizarro-144344294/ 
