@@ -1,7 +1,3 @@
-¡Claro! Aquí tienes una **bio profesional y atractiva** para tu perfil de GitHub, basada en la información de tu CV y adaptada para destacar tus habilidades técnicas y proyectos:
-
----
-
 **👋 Hi, I’m Jeremy Pizarro**  
 🎓 Senior student of **Business Informatics** at the University of Costa Rica.  
 💻 Passionate about **software development**, **databases**, and **networking**.  
